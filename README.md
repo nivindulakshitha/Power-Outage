@@ -3,7 +3,7 @@
     <a href="https://github.com/coding-desk20" target="_blank">
         <img src="https://github.com/coding-desk20/coding-desk20/blob/main/images/CD_LOGO.png?raw=true" alt="Logo" width="auto" height="150">
     </a>
-    <h3>Power blackout schedule remainder</h3>
+    <h3>Power blackout schedule reminder</h3>
     <p align="center"><i>This will remind you of an interruption</i>
         <br />
         <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/coding-desk20/power-outage" target="_blank"><strong>Get this repository »</strong></a>
