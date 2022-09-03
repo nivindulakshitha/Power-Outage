@@ -61,6 +61,7 @@ The electricity sector in Sri Lanka has a national grid which is primarily power
 
 # Built With
 Here are languages and a few major frameworks/libraries used to boot up my project. You might have to set up your environment to run these smoothly and prefer their official documentation to more informative content if it's required.
+
 [![css][css.com]][css-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![JQuery][JQuery.com]][JQuery-url]
@@ -73,8 +74,8 @@ Here are languages and a few major frameworks/libraries used to boot up my proje
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Credit to
-All credit goes to <i> [www.ceb.lk/](https://ceb.lk/) </i><br><br>
-<a href="https://github.com/coding-desk20/"><img src="https://github.com/coding-desk20/coding-desk20/raw/main/images/CD_LOGO.png?raw=true" height="75px" width="auto"></a>
+All credit goes to <i> [www.ceb.lk](https://ceb.lk/) </i><br><br>
+<a href="https://ceb.lk/"><img src="https://ceb.lk/assets/frontend/images/fevi.png" height="75px" width="auto"></a><br><br>
 Designing & developing credit goes to <i> [@coding-desk20](https://github.com/coding-desk20/) </i><br><br>
 <a href="https://github.com/coding-desk20/"><img src="https://github.com/coding-desk20/coding-desk20/raw/main/images/CD_LOGO.png?raw=true" height="75px" width="auto"></a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -86,7 +87,7 @@ Power-main
     |    |- webscrapper.py
     |- sources/
     |    |- domHandler.js
-    |    |- fileHandler
+    |    |- fileHandler.js
     |    |- index.js
     |    |- index.css
     |- index.js
@@ -97,6 +98,8 @@ Power-main
     |- package.json
     |- msedgedriver.exe
 ```
+Note: The driver (msedgedriver.exe) depends on your browser.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Contributing
