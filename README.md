@@ -145,20 +145,20 @@ Reach a 🌟 to this project
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/codingdesk20)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/coding-desk20/Power-outage.svg?style=for-the-badge&color=563d7c
-[contributors-url]: https://github.com/coding-desk20/Power-outage/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/coding-desk20/power-outage.svg?style=for-the-badge&color=563d7c
+[contributors-url]: https://github.com/coding-desk20/power-outage/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/coding-desk20/Power-outage.svg?style=for-the-badge&color=235789
-[forks-url]: https://github.com/coding-desk20/Power-outage/network/members
+[forks-shield]: https://img.shields.io/github/forks/coding-desk20/power-outage.svg?style=for-the-badge&color=235789
+[forks-url]: https://github.com/coding-desk20/power-outage/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/coding-desk20/Power-outage.svg?style=for-the-badge&color=F1D302
-[stars-url]: https://github.com/coding-desk20/Power-outage/stargazers
+[stars-shield]: https://img.shields.io/github/stars/coding-desk20/power-outage.svg?style=for-the-badge&color=F1D302
+[stars-url]: https://github.com/coding-desk20/power-outage/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/coding-desk20/Power-outage.svg?style=for-the-badge&color=C1292E
-[issues-url]: https://github.com/coding-desk20/Power-outage/issues
+[issues-shield]: https://img.shields.io/github/issues/coding-desk20/power-outage.svg?style=for-the-badge&color=C1292E
+[issues-url]: https://github.com/coding-desk20/power-outage/issues
 
-[license-shield]: https://img.shields.io/github/license/coding-desk20/Power-outage.svg?style=for-the-badge&color=00A878
-[license-url]: https://github.com/coding-desk20/Power-outage/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/coding-desk20/power-outage.svg?style=for-the-badge&color=00A878
+[license-url]: https://github.com/coding-desk20/power-outage/blob/master/LICENSE.txt
 
 [next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [next-url]: https://nextjs.org/
