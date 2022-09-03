@@ -56,7 +56,7 @@ The electricity sector in Sri Lanka has a national grid which is primarily power
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Work Exhibit
-<center><img src="https://github.com/coding-desk20/coding-desk20/blob/05f2a313a6c1de84196206f08ef7226e4ec10a48/images/Power%20blackout.png" width="50%" height="auto"></center>
+<center><img src="https://github.com/coding-desk20/coding-desk20/blob/05f2a313a6c1de84196206f08ef7226e4ec10a48/images/Power%20blackout.png" width="75%" height="auto"></center>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Built With
