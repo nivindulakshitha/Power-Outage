@@ -6,7 +6,7 @@
     <h3>Power blackout schedule remainder</h3>
     <p align="center"><i>This will remind you of an interruption</i>
         <br />
-        <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/coding-desk20/Power-outage" target="_blank"><strong>Get this repository »</strong></a>
+        <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/coding-desk20/power-outage" target="_blank"><strong>Get this repository »</strong></a>
         <br />
         <br />
         <a href="https://forms.gle/K39YazcSmPHkRfRA6">New Suggest</a>
