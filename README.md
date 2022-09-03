@@ -62,15 +62,16 @@ The electricity sector in Sri Lanka has a national grid which is primarily power
 # Built With
 Here are languages and a few major frameworks/libraries used to boot up my project. You might have to set up your environment to run these smoothly and prefer their official documentation to more informative content if it's required.
 
-[![css][css.com]][css-url]
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
-[![JQuery][JQuery.com]][JQuery-url]
 [![Python][Python.com]][Python-url]
 [![JavaScript][JavaScript.com]][JavaScript-url]
+[![JQuery][JQuery.com]][JQuery-url]
 [![nodeJS][nodeJS.org]][nodeJS-url]
-[![electronJS][electronJS.org]][electronJS-url]
 [![npmJS][npmJS.com]][npmJS-url]
+[![electronJS][electronJS.org]][electronJS-url]
 [![html][html.com]][html-url]
+[![css][css.com]][css-url]
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Credit to
