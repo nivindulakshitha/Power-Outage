@@ -95,6 +95,7 @@ Power-main
     |- preload.js
     |- webscrapper.exe
     |- configs.json
+    |- schedules.json
     |- package-lock.json
     |- package.json
     |- msedgedriver.exe
