@@ -100,7 +100,7 @@ Power-main
     |- package.json
     |- msedgedriver.exe
 ```
-Note: The driver (msedgedriver.exe) depends on your browser.
+Note: The web driver (msedgedriver.exe) depends on your browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
