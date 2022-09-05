@@ -35,7 +35,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#work-exhibit">Work Exhibit</li>
+        <li><a href="#work-exhibit">Work Preview</li>
         <li><a href="#built-with">Built With</a></li>
         <li><a href="#credit-to">Credit To</a></li>
         <li><a href="#whats-included">What's Included</li>
@@ -55,7 +55,7 @@ The electricity sector in Sri Lanka has a national grid which is primarily power
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Work Exhibit
+# Work Preview
 <center><img src="https://github.com/coding-desk20/coding-desk20/blob/05f2a313a6c1de84196206f08ef7226e4ec10a48/images/Power%20blackout.png" width="75%" height="auto"></center>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
