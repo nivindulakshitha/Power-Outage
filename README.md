@@ -35,7 +35,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#work-exhibit">Work Preview</li>
+        <li><a href="#work-preview">Work Preview</li>
         <li><a href="#built-with">Built With</a></li>
         <li><a href="#credit-to">Credit To</a></li>
         <li><a href="#whats-included">What's Included</li>
