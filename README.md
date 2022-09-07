@@ -186,7 +186,7 @@ Reach a 🌟 to this project
 [jquery-url]: https://jquery.com
 
 [python.com]: https://img.shields.io/badge/Python-366c9c?style=for-the-badge&logo=python&logoColor=white
-[python-url]: https://python.com
+[python-url]: https://python.org
 
 [javascript.com]: https://img.shields.io/badge/JavaScript-fcdc00?style=for-the-badge&logo=javascript&logoColor=black
 [javascript-url]: https://www.javascript.com/
